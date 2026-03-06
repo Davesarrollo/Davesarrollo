@@ -1,6 +1,6 @@
 ### Hola, soy David Monroy (Davesarrollo) 👋
 
-Soy un desarrollador enfocado en comprender cómo funcionan los programas. Me interesa entender cómo funcionan los programas internamente y en base a ello contruir  construir escribir código limpio, eficiente y bien organizado, donde la lógica y la arquitectura realmente importan.
+Soy un desarrollador enfocado en comprender cómo funcionan los programas internamente y en base a ello construir escribir código limpio, eficiente y bien organizado, donde la lógica y la arquitectura realmente importan.
 
 - Actualmente estoy trabajando en **MHUR Damage Calculator**, una aplicación de consola en C.
 - Estoy profundizando en **manejo de memoria, modelado de datos complejos y el funcionamiento interno de los programas**.
